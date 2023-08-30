@@ -57,7 +57,7 @@ body{
     border-radius: 52px;
     width: 200px;
     height: 35px;
-    border-color: white;
+    border: solid white 2px;
     background: #0065c3;
     color: white;
     font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
@@ -141,7 +141,7 @@ float: left;
     width: 44%;
     height: 36px;
     border-radius: 50px;
-    border-color: white;
+    border: solid white 2px;
     color:#0065c3;
     font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
     font-size: 15px;
@@ -321,7 +321,7 @@ h2{
     font-weight: bold;
     font-size: 18px;
     background-color: #0065c3;
-    border-color: white;
+    border: solid white 2px;
 }
 
 #learnbutton:hover{
@@ -523,7 +523,7 @@ background-color:#0065c3;
     height: 32px;
     margin-left: 117px;
     border-radius: 20px;
-    border-color: white;
+    border: solid white 2px;
     background-color: #0065c3;
     color: white;
     font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
