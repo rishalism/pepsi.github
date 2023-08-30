@@ -1,0 +1,699 @@
+body{
+    margin: 0;
+    margin-bottom: 50px;
+}
+.header{
+     
+    width: 100%;
+    height: 80px;
+    background-color:#0065c3;
+     margin: 0;
+     position: fixed;
+     z-index: 1000;
+    
+}
+.top-tab{
+    width:  96%;
+    height: 50%;
+    background-color:#0065c3;    
+    margin-left: 2%;
+    padding-top: 40px;
+
+
+}
+
+#pepsi-logo{
+    position: fixed;
+    display: block;
+    width: 153px;
+    height: 83px;
+    margin-top: -42px;
+    margin-left: -41px;
+}
+
+
+.products-list{
+    float: right;
+    width: 1127px;
+    height: 80px;
+    background-color: black;
+    margin-right: -27px;
+    margin-top: -40px;
+    background-color: #0065c3;
+}
+.tab-contents{
+    background-color: #0065c3;
+    border: none;
+    margin-top: 30px;
+    margin-left: 40px;
+    color: white;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+#buy{
+    margin-left: 463px;
+    border-radius: 52px;
+    width: 200px;
+    height: 35px;
+    border-color: white;
+    background: #0065c3;
+    color: white;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#buy:hover{
+background-color: white;
+color: #0065c3;
+}
+
+
+
+
+.container{
+    width: 100%;
+    height: 700px;
+    background-image: url(pictures/bg\ image\ of\ pepsi.png);
+}
+
+.container1{
+    width: 100%;
+    height: 700px;
+    background-color: bisque;
+
+    
+}
+
+.container2{
+    width: 100%;
+    height: 600px;
+    background-color: red;
+}
+
+#bottles{
+    width: 50%;
+    height: 700px;
+
+float: left;
+    
+
+}
+#apple-text{
+    width: 50%;
+    height: 700px;
+    display: flex;
+    
+}
+
+
+#bi{
+    width: 800px;
+    height: 600px;
+    object-fit: contain;
+    padding-top: 220px;
+}
+#apple-img{
+    width: 450px;
+    height: 400px;
+    display: flex;
+    padding-top:  150px;
+    padding-left: 50px;
+}
+
+.get-button{
+   
+    display: inline-block;
+    width: 347px;
+    height: 174px;
+    align-self: flex-end;
+    padding-right: 115px;
+    margin-left: -450px;
+    margin-bottom: 3px;
+    
+ 
+   
+}
+
+#gb{
+    width: 44%;
+    height: 36px;
+    border-radius: 50px;
+    border-color: white;
+    color:#0065c3;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 160px;
+    margin-top: 30px;
+
+}
+
+#gb:hover{
+background-color: #0065c3;
+color: white;
+}
+
+#para{
+width: 800px;
+font-family:  Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+font-size: 10px;
+font-weight: 200;
+color: white;
+padding-left: -100px;
+text-align: center;
+padding-top: 20px;
+margin-left: -160px;
+
+}    
+
+.black-pepsi{
+    background-color: black;
+    width: 50%;
+    height: 700px;
+    float: left;
+}
+
+.zero-text{
+    float: left;
+    display: flex;
+    background-color: black;
+    width: 50%;
+    height: 700px;
+    object-fit: contain;
+}
+
+#blackimg{
+    width: 1000px;
+    height: 800px;
+    object-fit: cover;
+    margin-left: -100px;
+    margin-top: -100px;
+    position:relative
+    
+}
+
+#headline{
+    width: 500px;
+    height: 400px;
+    object-fit: contain;
+    align-self: center;
+    margin-left: 85px;
+    margin-bottom: 220px;
+}
+#tryimage{
+    
+    width: 354px;
+    height: 237px;
+    object-fit: contain;
+    margin-left: -418px;
+    margin-top: 298px;
+
+}
+
+#newimage{
+    width: 300px;
+    height: 200px;
+    display: flex;
+    margin-left: 377px;
+    margin-top: -655px;
+    position: relative;
+}
+
+.video-container{
+    width: 505px;
+    height: 150px;
+    position: relative;
+    margin-left: -436px;
+    margin-top: 458px;
+
+}
+#promoimage1{
+    width: 45%;
+    height: 140px;
+    float: left;
+}
+
+#promoimage2{
+    width: 45%;
+    height: 140px;
+    padding-left: 45px;
+    float: left ;
+}
+
+#para1{
+    color: aliceblue;
+    font-family:  Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    margin-left: 70px;
+}
+
+#para2{
+    color: aliceblue;
+    font-family:  Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    margin-top: 12px;
+    margin-left: 18px;
+
+}
+
+
+
+.container2{
+    background-image: url(pictures/container\ 2\ bg.png);
+}
+
+.nitro-can{
+    float: left;
+    width: 50%;
+    height: 700px;
+}
+
+.nitro-logo{
+    float: left;
+    width: 50%;
+    height: 700px;
+}
+
+#ncan{
+width: 400px;
+height: auto;
+object-fit: contain;
+align-self: center;
+    margin-left: 248px;
+    margin-top: 25px;
+    position: relative;
+}
+#nlogo{
+    width: 400px;
+    height: auto;
+    object-fit: contain;
+    margin-top: 135px;
+    margin-left: 55px;
+}
+h2{
+
+   width: 400px;
+    font-family: Cervo Neue Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin: 0;
+    color: white;
+    font-weight: bolder;
+    margin-left: 90px;
+
+}
+
+#learnbutton{
+    width: 180px;
+    height: 40px;
+    margin-left: 160px;
+    border-radius: 25px;
+    margin-top: 20px;
+    font-family:  Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;   
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: #0065c3;
+    border-color: white;
+}
+
+#learnbutton:hover{
+ background-color: white;
+ color: #0065c3;
+}
+
+.container3{
+    float: left;
+    width: 100%;
+    height: 600px;
+    background-color: black;
+    margin-top: -100px;
+}
+
+.box2{
+    float: left;
+    width: 70%;
+    height: 600px;
+    background-image: url(pictures/bg\ of\ container3.jpg);
+    background-position: top
+}
+.box1{
+
+float: left;
+width: 30%;
+height: 600px;
+background-color:#0065c3;
+
+}
+
+#tag-line{
+    object-fit: contain;
+    display: inline;
+    width: 450px;
+    margin-top: 460px;
+    margin-left: 445px;
+
+
+}
+.box1 >.thumb{
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    width: 350px;
+    margin: 55px 10px 20px 5px;
+    float: left;
+
+}
+
+.btext{  
+    padding-left: 62px;
+    margin-top: -307px;
+    width: 306px;
+    height: 50px;
+    background-color: blue;
+    float: left;
+    color: white;
+    font-weight: bold;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 5px;
+}
+
+
+.btext1{
+
+    padding-left: 62px;
+    margin-top: -20px;
+    width: 306px;
+    height: 50px;
+    background-color: blue;
+    float: left;
+    color: white;
+    font-weight: bold;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 5px;
+
+}
+.container4{
+    display: flex;
+    background-image: url(pictures/bg\ 2.png);
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    background-color: darkblue;
+}
+#bg2{
+    width: 500px;
+    height: 700px;
+}   
+
+.image-container{
+    display: flex;
+    margin-left: 300px;
+    width: 1000px;
+    height: 700px;
+    background-image: url(pictures/bg-1-pepsi.png);
+    background-size: cover;
+}
+
+.mango{
+
+    margin-top: 99px;
+    width: 303px;
+    height: 226px;
+    margin-left: -250px;
+}
+.likeimage{
+    margin-left: -322px;
+    margin-top: 650px;
+    width: 403px;
+    height: 32px;
+}
+
+.container5{
+    display: flex;
+    width: 100%;
+    height: 700px;
+    background-color: black;
+}
+
+.container6{
+
+    width:100%;
+    height:680px ;
+    background-image: url(pictures/bg\ for\ container6.jpg);
+}
+
+.promo-pepsi{
+    width: 60%;
+    height: 700px;
+    display: flex;
+    float: left;
+}
+
+.title-pepsi{
+    float: left;
+    display: flex;
+    width: 40%;
+    height: 700px;
+    position: relative;
+}
+
+#promo-title{
+    width: 450px;
+    height: 350px;
+    margin-left: 30px;
+    margin-top: 180px;
+}
+
+#pepsican{
+    width: 800px;
+    height: 600px;
+    margin-top: 80PX;
+    margin-left: 80px;
+}
+
+.container7{
+    width: 100%;
+    height: 500px;
+    background-color:#0065c3;
+}
+
+.promotion-title{
+    float: left;
+    width: 45%;
+    height: 700px;    
+}
+
+.pepsican-3{
+    float: left;
+    width: 55%;
+    height: 500px;
+}
+#para-titles{
+    width: 500px;
+    height: 10px;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding-top: 50px;
+    padding-left: 20px;
+    position: relative;
+
+    
+}
+
+#rights{
+    color: white;
+    margin-left: 117px;
+    margin-top: 63px;
+    font-size: 18px;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    
+}
+
+#product-button{
+    width: 169px;
+    height: 32px;
+    margin-left: 117px;
+    border-radius: 20px;
+    border-color: white;
+    background-color: #0065c3;
+    color: white;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+
+#product-button:hover{
+    background-color: white;
+    color: #0065c3;
+}
+#three-can{
+    margin-left: 132px;
+    width: 489px;
+    height: 264px;
+    margin-top: 141px;
+
+}
+
+.container8{
+    width: 100%;
+    height: 338px;
+    background-color: WHITE;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+
+    
+}
+
+.container8 >div{
+    width: 90%;
+    height: 200px;
+    background-color: antiquewhite;
+
+
+    
+}
+#social-media{
+    margin: 0 50px;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    
+}
+h1{
+    color: #0065c3;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+
+
+}
+.twitter{
+    background-image: url(pictures/social-twitter.png);
+    background-size: contain;
+}
+.facebook{
+    background-image: url(pictures/social-facebook.png);
+    background-size: cover;
+}
+.instagram{
+    background-image: url(pictures/social-instagram.png);
+    background-size: cover;
+}
+.youtube{
+    background-image: url(pictures/social-youtube.png);
+    background-size: cover;
+}
+.tiktok{
+    background-image: url(pictures/social-tiktok.png);
+    background-size: cover;
+}
+
+.container9{
+    width: 100%;
+    height: 400px;
+    background-color:#0065c3;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    
+}
+
+
+.one,.two,.three,.four,.five{
+    
+        width: 25%;
+        height: 200px;
+        background-color:#0065c3;
+    
+    
+}
+
+p:hover{
+    color: rgb(231, 203, 203);
+}
+
+#last-logo{
+width: 250px;
+margin-left: -50px;
+margin-top: -28px;
+}
+
+.one{
+    width: 20%;
+
+}
+.two{
+    color: aliceblue;
+    font-size: 16px;
+    font-weight: 900;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+
+}
+.three{
+    color: white;
+    font-size: 16px;
+    font-weight: 900;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.four{
+    color: white;
+    font-size: 16px;
+    font-weight: 900;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.media-logos{
+    display: flex;
+    margin-top: 30px;
+
+    
+}
+
+.twitterl,.instagraml,.facebookl,.youtubel,.tiktokl{
+    width: 20%;
+    height: 50px;
+    background-color:#0065c3;
+}
+
+.twitterl{
+    background-image: url(pictures/icon-twitter.svg);
+    background-size: cover;
+}
+
+.facebookl{
+    background-image: url(pictures/icon-facebook.svg);
+    background-size: cover;
+}
+
+.youtubel{
+  background-image: url(pictures/icon-youtube.svg);
+  background-size: contain;
+  height: 35px;
+  margin-top: 10px;
+  width: 19%;
+}
+
+.tiktokl{
+    background-image: url(pictures/icon-tiktok.svg);
+    background-size: cover ;
+}
+
+.instagraml{
+    background-image: url(pictures/icon-instagram.svg);
+    background-size: cover;
+    
+}
+ 
